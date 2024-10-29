@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: adwised\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-07 12:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Author of the plugin
+msgid "Adwised"
+msgstr ""
+
+#. Name of the plugin
+msgid "adwised"
+msgstr ""
+
+#: views/dashboard-notices.php:14
+msgid "Click here"
+msgstr ""
+
+#: views/settings.php:76
+msgid "client id"
+msgstr ""
+
+#: views/settings.php:111
+msgid "Deactivate popup"
+msgstr ""
+
+#: views/settings.php:73
+msgid "Deactivate web push"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://adwised.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/adwised"
+msgstr ""
+
+#: adwised.php:1499
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr ""
+
+#: adwised.php:1496
+msgid "nonce field is missing. Settings NOT saved."
+msgstr ""
+
+#: views/settings.php:114
+msgid "popup id"
+msgstr ""
+
+#: views/settings.php:118
+msgid "popup secret key"
+msgstr ""
+
+#: views/settings.php:135
+msgid "save"
+msgstr ""
+
+#: adwised.php:1482
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#. %s: Name of this plugin
+#: views/dashboard-notices.php:11
+#, php-format
+msgid "Thank you for installing %1$s!"
+msgstr ""
+
+#: views/dashboard-notices.php:14
+msgid "to configure the plugin."
+msgstr ""
+
+#: views/settings.php:80
+msgid "topic"
+msgstr ""
+
+#: views/settings.php:38
+msgid "Web push and popup"
+msgstr ""
+
+#. Description of the plugin
+msgid "افزودن اسکریپت ادوایزد به سایت"
+msgstr ""
+
+#: adwised.php:1529
+msgid "تنظیمات ذخیره شد"
+msgstr ""
